@@ -32,7 +32,7 @@ git add -A
 ```
 git commit -m "initial commit"
 ```
-* push
+* push and change origin
 ```
-git push
+git push -u origin main
 ```
